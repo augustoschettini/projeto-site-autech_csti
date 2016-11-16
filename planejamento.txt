@@ -1,0 +1,57 @@
+Planejamento do site
+Site map
+
+Home page
+	...
+
+SOBRE A AUTECH
+	O QUE FAZEMOS
+	História
+	Missão
+	Valores
+	Equipe - Futuro
+	CONTATO
+
+SOLUÇÕES EM TI
+	REDES
+	MOBILIDADE
+	PERFORMANCE
+	SEGURANÇA - Futuro
+	DATA CENTER E CLOUD
+	ELÉTRICA
+	Projetos
+		Cabeamento Estruturado
+		Soluções VOIP
+		Soluções Wireless
+		Soluções para Provedores Wireless
+		Escritório de Projetos - Futuro
+	Segurança em Redes
+	NOC, Suporte e Field Service
+	Gestão em TI
+
+SEU NEGÓCIO
+	PME
+	DATA CENTER
+	SERVICE PROVIDERS
+	VAREJO
+	SAÚDE
+	FINANCEIRO
+	INDÚSTRIA
+
+
+
+Segurança Eletrônica
+	Projetos
+		Alarmes
+		Central de Monitoramento/Vídeo Vigilância
+		CFTV
+		Controle de acesso
+		Cerca Elétrica
+		Incêndio
+		Interfonia
+
+
+
+BLOG
+
+EBOOK
